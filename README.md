@@ -9,7 +9,7 @@
   <li>🧠 Building strong programming foundations</li>
   <li>💻 Practicing through exercises and projects</li>
   <li>🐙 Learning Git & GitHub</li>
-  <li>🚀 Building my programming journey step by step</li>
+  <li>🚀 Building my programming journey step by step so that I may π shaped developer</li>
 </ul>
 
 <hr>
